@@ -29,7 +29,7 @@ const TEMPLATE_CONFIG = [
       {{note_en.DATA}}
       
       {{note_cn.DATA}}
-    '
+    `
   },
   {
     id: '0002',
