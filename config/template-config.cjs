@@ -18,8 +18,6 @@ const TEMPLATE_CONFIG = [
       
       (日出/日落)时间{{sunrise.DATA}} / {{sunset.DATA}}
       
-      {{comprehensive_horoscope.DATA}}
-      
       ---
       
       今天是我们恋爱的第{{love_day.DATA}}天
@@ -28,10 +26,10 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      {{moment_copyrighting.DATA}}
+      {{note_en.DATA}}
       
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
-    `
+      {{note_cn.DATA}}
+    '
   },
   {
     id: '0002',
